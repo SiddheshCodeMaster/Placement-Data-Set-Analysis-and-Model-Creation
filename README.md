@@ -1,1 +1,1 @@
-# Placement-Data-Set-Analysis-and-Model-Creation
+# Sentiment Analysis of IMDB data set in R
